@@ -1,0 +1,22 @@
+{
+  "name": "votacion_de_peliculas",
+  "version": "0.0.1",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/santiardila2008/Votacion_de_peliculas.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/santiardila2008/Votacion_de_peliculas/issues"
+  },
+  "homepage": "https://github.com/santiardila2008/Votacion_de_peliculas#readme",
+  "description": "",
+  "dependencies": {
+    "express": "^5.3.0"
+  }
+}
